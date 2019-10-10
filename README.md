@@ -1,4 +1,4 @@
-![ubirch logo](https://github.com/ubirch/ubirch-5gcmm-hackathon/raw/master/uBirch_Logo.png)
+![ubirch logo](https://github.com/ubirch/ubirch-5gcmm-hackathon/raw/master/ubirch.png)
 # 5G CMM Hackathon
 
 10:00 - 16:00
